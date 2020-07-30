@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#submit:hover {
+    cursor: pointer;
+}
+
+.results {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+form {
+    margin: 10px 0;
+}
